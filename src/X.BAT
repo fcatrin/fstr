@@ -1,4 +1,4 @@
 @echo off
 tasm fst 
-tasm test /m
-tlink test+fst
+tasm fstr /m
+tlink fstr+fst
