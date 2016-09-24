@@ -6,6 +6,9 @@ FSTR was released in 1994. The code is published only for historic reasons.
 The published binary can be find here:
 http://www.msxarchive.nl/pub/msx/utils/othersys/
 
+Video demo running on DosBox here:
+https://www.youtube.com/watch?v=wYH8B3nKwpk
+
 Following is the **original README file**. For preserveration, the text is conserved as-is, **no evident corrections to grammar problems will be done**.
 
 ```
