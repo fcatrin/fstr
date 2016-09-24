@@ -8,6 +8,7 @@ http://www.msxarchive.nl/pub/msx/utils/othersys/
 
 Following is the original README file. For preserveration, the text is conserved as-is, no evident corrections to grammar problems will be done.
 
+```
 FAC Soundtracker Replayer for PC compatibles.
 
 Overview:
@@ -187,7 +188,7 @@ Acknowlegments
 
 Greetings
 
-     -  MSX & PC freaks  all over the  world. MCX (Max Celedon), some day Ill
+     -  MSX & PC freaks  all over the  world. MCX (Max Celedon), some day I'll
         finish your PSG sound routine for VDPower, and when do you will finish
         it?. Luis Cueto (Thank you  for the internet access, I believe you can
         finish your career if you set it as a goal). JHM & CHM (Creators of
@@ -210,3 +211,4 @@ Contacting with the author.
 
 
                                                F.Catrin '94
+```
