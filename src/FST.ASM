@@ -102,7 +102,7 @@ musname    db 64+9 dup (0)
 SongName   db 40 dup (0)
 Composer   db 40 dup (0)
 bufdisk    db 512 dup (0)
-include    memcode.lib
+include    memcode.asm
 ;-----------------------------------------------------------------------------
 ; al = registro, ah=dato
 ;-----------------------------------------------------------------------------
